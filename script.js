@@ -3,7 +3,7 @@ const companyData = {
   city: "Uberaba",
   state: "MG",
   whatsappDisplay: "+55 34 3315-2727",
-  whatsappUrl: "https://wa.me/553433152727?text=Ol%C3%A1%2C%20quero%20solicitar%20um%20or%C3%A7amento.",
+  whatsappUrl: "https://wa.me/553433152727?text=Vim%20pelo%20site%20e%20gostaria%20de%20fazer%20um%20or%C3%A7amento",
   instagramUrl: "https://www.instagram.com/jjrmateriaisparaconstrucao/",
   facebookUrl: "https://www.facebook.com/jjrmateriaisparaconstrucao/",
   address: "Av. Nossa Senhora do Desterro, 906, Uberaba - MG",
